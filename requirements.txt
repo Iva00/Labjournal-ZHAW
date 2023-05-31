@@ -1,3 +1,3 @@
 streamlit_authenticator
 pandas
-jsonbin
+jsonbin.save_key
