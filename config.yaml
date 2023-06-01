@@ -1,0 +1,13 @@
+credentials:
+ usernames:
+    ivana:
+      email: vujiniva@students.zhaw.ch
+      name: Ivana
+      password: $2b$12$RPUjypAX.d1XeIFQ2appNeGgETkV9rSWIlFiZeynUAZyw9rVUg9pq
+    guest:
+      name: Gast
+      password: $2b$12$WkfL3CBjWJiveUHeQ8HN2eQv6wO4jKNlCQbTU1e7iBDMotYlgySki
+cookie:
+  expiry_days: 30
+  key: JgDyEoKUNItM5prxo194jDeLYzVzmYE6 
+  name: streamlitcookie
